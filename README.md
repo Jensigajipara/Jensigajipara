@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://media.tenor.com/cKgOapMuyWcAAAAM/coding-developer-code.gif" alt="jensigajipara" /> </p>
 
-- 🌱 I’m currently learning *React js ,python*
+
 
 - 📫 How to reach me *Gajiparajensi04@gmail.com*
 
